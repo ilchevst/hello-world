@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>Register for your DevOps Journee </h1>
+    <h1>Register for your DevOps Journee. A new user has been already registered</h1>
     <p>Please fill in this form to create an account.</p>
     <hr>
      
