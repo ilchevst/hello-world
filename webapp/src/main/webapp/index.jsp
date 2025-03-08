@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>Register for your DevOps Journee. A new user has been already registered</h1>
+    <h1>Register for your DevOps Journee. This was powered by ansible and jenkins</h1>
     <p>Please fill in this fucking form to create some motherfucking account.</p>
     <hr>
      
@@ -31,7 +31,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Thank you! Happy DevOpsing </h1>
+   <h1> Thank you! Happy DevOps journee! </h1>
 
   
 </form>
