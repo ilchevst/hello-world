@@ -10,7 +10,7 @@
     <br>
     
     <label for="mobile"><b>Enter mobile</b></label>
-    <input type="text" placeholder="Enter moible number" name="mobile" id="mobile" required>
+    <input type="text" placeholder="Enter mobile number" name="mobile" id="mobile" required>
     <br>
 
     <label for="email"><b>Enter Email</b></label>
@@ -34,5 +34,6 @@
 
    <h1> Thank you! Happy DevOps journee! </h1>
    <h1> Don't be afraid and take care of your head! </h1>
-  
+   <h1> Nema a se plashish kopele !!! </h1>  
+
 </form>
