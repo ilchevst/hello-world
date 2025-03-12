@@ -35,5 +35,6 @@
    <h1> Thank you! Happy DevOps journee! </h1>
    <h1> Don't be afraid and take care of your head! </h1>
    <h1> Nema a se plashish kopele !!! </h1>  
+   <h1> She im faneme cakata !!! </h1>
 
 </form>
