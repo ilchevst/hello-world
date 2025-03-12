@@ -2,7 +2,7 @@
   <div class="container">
     <h1>Register for your DevOps Journee. This was powered by ansible and jenkins</h1>
     <p>Please fill in this fucking form to create some motherfucking account.</p>
-    <p>I wish you GOOD LUCK !!! !!! !!!</p>
+    <p>I wish you GOOD LUCK mate !!! !!! !!!</p>
     <hr>
      
     <label for="Name"><b>Enter Name</b></label>
